@@ -5,7 +5,7 @@
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "NA"
+    "url": "https://github.com/amitgen414/angular-metergauge"
   },
   "scripts": {
     "build": "gulp build && gulp build --env=release",
