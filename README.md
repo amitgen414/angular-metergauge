@@ -72,7 +72,7 @@ you will just have to add the directive in you html view and attach the config v
 </div>
 ```
 
-##Dynamically Change value**
+##Dynamically Change value
 For real time update of the metergauge value, configuration's `needleVal` parameter can be changed in the contoller. 
 Updated value will be immediately reflected if the gauge.
 In the example give below, after every two seconds, metergauge's value will change.
