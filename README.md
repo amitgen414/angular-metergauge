@@ -2,7 +2,7 @@
 An angular JS directive for meter gauge visualization with real time update.
 
 ##Demo
-(https://amitgen414.github.io/angular-metergauge)
+https://amitgen414.github.io/angular-metergauge
 
 ## Requirements
 
@@ -14,7 +14,7 @@ An angular JS directive for meter gauge visualization with real time update.
 You will need to include `angular JS` and 'D3 JS' in your project to make the directive work
 
 ```html
-<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 ```
 
