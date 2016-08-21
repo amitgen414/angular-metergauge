@@ -1,0 +1,30 @@
+{
+  "name": "angular-metergauge",
+  "description": "angular directive for displaying meter gauge visualization",
+  "main": "index.html",
+  "authors": [
+    "Amit Jha"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "meter",
+    "gauge",
+    "speedometer",
+    "directive",
+    "d3"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap-sass": "^3.3.7",
+    "d3": "^4.2.2"
+  }
+}
