@@ -1,8 +1,8 @@
 {
   "name": "angular-metergauge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "angular directive for displaying meter gauge visualization",
-  "main": "index.html",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/amitgen414/angular-metergauge"
